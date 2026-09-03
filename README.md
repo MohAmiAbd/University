@@ -1,2 +1,4 @@
 # University
-the usniversity projects.
+The university projects.
+
+The things that professors give us for grades and other things.
